@@ -4,7 +4,8 @@ This repo contains a series of notebooks used to aid in talks I gave at the IT S
 
 The tutorials are intended to be read in the order the talks were given, which are
 1. Background
-2. Supervised Learning with Scikit-Learn
-3. Unsupervised Learning with Scikit-Learn
+2. Classification with Scikit-Learn
+3. Regression with Scikit-Learn
+4. Unsupervised Learning with Scikit-Learn
 
 More tutorials will be added as more talks are given.
