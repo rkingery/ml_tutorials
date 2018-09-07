@@ -4,7 +4,7 @@ This repo contains a series of notebooks used to aid in talks I'm giving for the
 
 The tutorials are intended to be worked through in the order the talks were given, which are
 1. Background
-2. Classificationn
+2. Classification
 3. Regression
 4. Dimensionality Reduction
 5. Clustering
