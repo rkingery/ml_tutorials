@@ -8,5 +8,7 @@ The tutorials are intended to be worked through in the order the talks were give
 3. Regression
 4. Dimensionality Reduction
 5. Clustering
+6. Supervised Anomaly Detection
+7. Unsupervised Anomaly Detection
 
 More tutorials will be added as more talks are given.
