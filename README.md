@@ -10,8 +10,10 @@ The tutorials are intended to be worked through in the order the talks were give
 5. Clustering
 6. Supervised Anomaly Detection and Unbalanced Data
 7. Unsupervised Anomaly Detection
+<!--
 8. Time Series Basics
 9. Machine Learning with Time Series Data
 10. TBD
+-->
 
 More tutorials will be added as more talks are given.
