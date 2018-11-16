@@ -13,7 +13,8 @@ The tutorials are intended to be worked through in the order the talks were give
 8. [Simpson's Paradox](https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9) (homework)
 9. [Text Classification](https://github.com/rkingery/ml_tutorials/blob/master/ml_with_text.ipynb)
 10. [Time Series Basics](https://github.com/rkingery/ml_tutorials/blob/master/time_series_basics.ipynb)
-11. Machine Learning with Time Series (adding soon)
+11. [Machine Learning with Time Series](https://github.com/rkingery/ml_tutorials/blob/master/ml_time_series.ipynb)
+12. End-to-End Machine Learning (coming soon)
 
 More tutorials will be added as more talks are given.
 
