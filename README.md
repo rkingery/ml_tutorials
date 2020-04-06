@@ -9,7 +9,7 @@ These tutorials originated from a series of talks I gave in 2018 for the IT divi
 ## Contents
 
 The tutorials are intended to be worked through in the order the talks were given, which are
-0. [Background](https://github.com/rkingery/ml_tutorials/blob/master/resources/background.pdf) (read as needed)
+- [Background](https://github.com/rkingery/ml_tutorials/blob/master/resources/background.pdf) (read as needed)
 1. [Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
 2. [Regression](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
 3. [Dimensionality Reduction](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
