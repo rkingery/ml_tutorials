@@ -9,17 +9,17 @@ These tutorials originated from a series of talks I gave in 2018 for the IT divi
 ## Contents
 
 The tutorials are intended to be worked through in the order the talks were given, which are
-1. [Background](https://github.com/rkingery/ml_tutorials/blob/master/background.pdf) (read as needed)
-2. [Classification](https://github.com/rkingery/ml_tutorials/blob/master/classification.ipynb)
-3. [Regression](https://github.com/rkingery/ml_tutorials/blob/master/regression.ipynb)
-4. [Dimensionality Reduction](https://github.com/rkingery/ml_tutorials/blob/master/dimension_reduction.ipynb)
-5. [Clustering](https://github.com/rkingery/ml_tutorials/blob/master/clustering.ipynb)
-6. [Supervised Anomaly Detection and Unbalanced Data](https://github.com/rkingery/ml_tutorials/blob/master/supervised_anomalies.ipynb)
-7. [Unsupervised Anomaly Detection](https://github.com/rkingery/ml_tutorials/blob/master/unsupervised_anomalies.ipynb)
-8. [Text Classification](https://github.com/rkingery/ml_tutorials/blob/master/ml_with_text.ipynb)
-9. [Time Series Basics](https://github.com/rkingery/ml_tutorials/blob/master/time_series_basics.ipynb)
-10. [Machine Learning with Time Series](https://github.com/rkingery/ml_tutorials/blob/master/ml_time_series.ipynb)
-11. [Weakly Supervised Learning](https://github.com/rkingery/ml_tutorials/blob/master/weak_supervision.ipynb)
+0. [Background](https://github.com/rkingery/ml_tutorials/blob/master/resources/background.pdf) (read as needed)
+1. [Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
+2. [Regression](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
+3. [Dimensionality Reduction](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
+4. [Clustering](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
+5. [Supervised Anomaly Detection and Unbalanced Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
+6. [Unsupervised Anomaly Detection](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
+7. [Text Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/ml_with_text.ipynb)
+8. [Time Series Basics](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb)
+9. [Machine Learning with Time Series](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb)
+10. [Weakly Supervised Learning](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/weak_supervision.ipynb)
 
 More tutorials will be added periodically. Check back.
 
