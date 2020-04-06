@@ -2,4 +2,5 @@
 *.aux
 *.tex
 *.synctex.gz
+./ipynb_checkpoints/
 ./notebooks/ipynb_checkpoints/
