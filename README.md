@@ -8,20 +8,26 @@ These tutorials originated from a series of talks I gave in 2018 for the IT divi
 
 ## Contents
 
-The tutorials are intended to be worked through in the order the talks were given, which are
+### Fundamentals
 - [Background](https://github.com/rkingery/ml_tutorials/blob/master/resources/background.pdf) (read as needed)
-1. [Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
-2. [Regression](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
-3. [Dimensionality Reduction](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
-4. [Clustering](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
-5. [Supervised Anomaly Detection and Unbalanced Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
-6. [Unsupervised Anomaly Detection](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
+- [Binary Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
+- [Multiclass Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA)
+- [Regression](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
+- [Dimensionality Reduction](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
+- [Clustering](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
+
+### Applications
+- [Supervised Anomaly Detection and Unbalanced Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
+- [Unsupervised Anomaly Detection](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
 7. [Text Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/ml_with_text.ipynb)
 8. [Time Series Basics](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb)
 9. [Machine Learning with Time Series](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb)
-10. [Weakly Supervised Learning](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/weak_supervision.ipynb)
 
-More tutorials will be added periodically. Check back.
+### Dealing with Inadequate Data
+- [Labeling Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA)
+- [Active Learning](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/active_learning.ipynb) (TBA)
+
+Tutorials are added periodically. Check back.
 
 ## Viewing and Running Notebooks
 
