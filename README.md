@@ -25,10 +25,10 @@ More tutorials will be added periodically. Check back.
 
 ## Viewing and Running Notebooks
 
-If you want to view the notebooks without downloading them, you can use the [Jupyter nbviewer](https://nbviewer.jupyter.org/). Just paste the link to the notebook in their form. 
+If you want to view the notebooks without downloading them, you can use the [Jupyter nbviewer](https://nbviewer.jupyter.org/). Just paste the URL to the notebook there and it will render correctly. 
 
 To execute the code, clone the repo and run `pip install -r requirements.txt` inside the repo root, ideally in an isolated virtual/conda environment. Notebooks can then be launched and run by running `jupyter notebook` in your shell and pasting the URL into your browser.
 
 ## Notes
-- For those who'd prefer a docker container, docker support hasn't yet been built in, but I'm planning too soon.
-- For those who prefer Google Collab, I hate Collab. Until it functions more like Jupyter I've no plans to use it. Sorry.
+- For those who'd prefer a docker container, docker support hasn't yet been built in, but I'm planning to soon.
+- For those who prefer Google Colab, I hate Colab. Until it functions more like Jupyter I've no plans to use it. Sorry.
