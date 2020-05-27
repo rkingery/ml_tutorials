@@ -15,7 +15,7 @@ Regarding theory, I assume no background other than being able to read algebraic
 ### Core Fundamentals
 - [Mathematical Background](https://github.com/rkingery/ml_tutorials/blob/master/resources/background.pdf) (read as needed)
 - [Important Data Types](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/data_types.ipynb) (TBA)
-- [Random Numbers](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb) (TBA)
+- [Generating Random Numbers](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb)
 
 ### ML Fundamentals
 - [Binary Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
@@ -51,7 +51,7 @@ conda create --name ml_tutorials python=3.6 pip
 conda activate ml_tutorials
 # recommend making sure your shell is using the python and pip packages inside your anaconda path (e.g. ~/anaconda3/.../python)
 which python && which pip
-# if python or pip path is something different (e.g. usr/local/bin/python), restart your shell and try again
+# if python or pip path is something different (e.g. /usr/local/bin/python), restart your shell and try again
 cd <directory where you want repo to go>
 git clone https://github.com/rkingery/ml_tutorials.git
 cd ml_tutorials
