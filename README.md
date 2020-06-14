@@ -12,26 +12,18 @@ Regarding theory, I assume no background other than being able to read algebraic
 
 ## Contents
 
-### Core Fundamentals
 - [Mathematical Background](https://github.com/rkingery/ml_tutorials/blob/master/resources/background.pdf) (read as needed)
-- [Important Data Types](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/data_types.ipynb) (TBA)
-- [Generating Random Numbers](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb)
-
-### ML Fundamentals
 - [Binary Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
-- [Multiclass Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA)
 - [Regression](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
 - [Dimensionality Reduction](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
 - [Clustering](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
-
-### Applications
 - [Supervised Anomaly Detection and Unbalanced Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
 - [Unsupervised Anomaly Detection](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
 - [Text Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/ml_with_text.ipynb)
 - [Time Series Basics](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb)
 - [Machine Learning with Time Series](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb)
-
-### Dealing With Data
+- [Generating Random Numbers](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb)
+- [Multiclass Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA)
 - [Labeling Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA)
 - [Active Learning](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/active_learning.ipynb) (TBA)
 
