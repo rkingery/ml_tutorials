@@ -8,7 +8,7 @@ These tutorials originated from a series of talks I gave in 2018 for the IT divi
 
 ## Knowledge Assumed
 
-Regarding theory, I assume no background other than being able to read algebraic equations and some basic linear algebra. Knowledge of probability theory shouldn't be essential for going through the tutorials, but may be helpful in some areas. On the practical side of things, I assume that readers are familiar with python 3 and basic programming concepts in general.
+Regarding theory, I assume no background other than being able to read algebraic equations and some basic linear algebra (e.g. matrix multiplication, vectors). Knowledge of probability theory shouldn't be essential for going through most of the tutorials, but may be helpful in some areas. Similarly, if calculus shows up somewhere, you can probably ignore it and be fine. On the practical side of things, I assume that readers are familiar with python 3 and basic programming concepts in general.
 
 ## Contents
 
@@ -26,6 +26,8 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Multiclass Classification](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA)
 - [Labeling Data](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA)
 - [Active Learning](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/active_learning.ipynb) (TBA)
+- [ML Deep Dive: Naive Bayes](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb) (TBA)
+- [ML Deep Dive: k Nearest Neighbors](https://github.com/rkingery/ml_tutorials/blob/master/notebooks/knn.ipynb) (TBA)
 
 Tutorials are added periodically. Check back.
 
@@ -63,7 +65,7 @@ conda deactivate  # when finished with session
 ```
 
 ### Install with Docker
-One day soon man. One day soon.
+TBD.
 
 ## Notes
 - For those who prefer Google Colab, I hate Colab. Until it functions more like Jupyter I've no plans to use it. Sorry.
