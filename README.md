@@ -26,7 +26,7 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Multiclass Classification]() (TBA)
 - [Labeling Data]() (TBA)
 - [Active Learning]() (TBA)
-- [ML Deep Dive: Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb) (In Progress)
+- [ML Deep Dive: Probability and Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb) (In Progress)
 - [ML Deep Dive: k Nearest Neighbors]() (TBA)
 
 Tutorials are added periodically. Check back.
