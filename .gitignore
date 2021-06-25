@@ -4,3 +4,4 @@
 *.synctex.gz
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
+hidden
