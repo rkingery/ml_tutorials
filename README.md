@@ -82,5 +82,3 @@ conda deactivate  # when finished with session
 ### Install with Docker
 TBD.
 
-## Notes
-- For those who prefer Google Colab, I hate Colab. Until it functions more like Jupyter I've no plans to use it. Sorry.
