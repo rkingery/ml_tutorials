@@ -21,7 +21,7 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Multiclass Classification and Categorical Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA)
 
 ### Deep Learning
-- [Intro To PyTorch](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/pytorch.ipynb)
+- [PyTorch: Tensors, Autodiff, Cuda](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/pytorch.ipynb)
 - [Neural Networks](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets.ipynb) (WIP)
 
 ### Anomaly Detection
