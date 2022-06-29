@@ -14,3 +14,4 @@ notebook
 tsfresh
 MulticoreTSNE
 kaggle
+torch
