@@ -22,7 +22,9 @@ Regarding theory, I assume no background other than being able to read algebraic
 
 ### Deep Learning
 - [PyTorch: Tensors, Autodiff, Cuda](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/pytorch.ipynb)
-- [Neural Networks](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets.ipynb) (WIP)
+- [Neural Networks: Part 1](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets_1.ipynb) (WIP)
+- [Neural Networks: Part 2](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets_2.ipynb) (TBD)
+
 
 ### Anomaly Detection
 - [Supervised Anomaly Detection and Unbalanced Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
