@@ -15,3 +15,4 @@ tsfresh
 MulticoreTSNE
 kaggle
 torch
+torch_lr_finder
