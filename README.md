@@ -18,7 +18,7 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Regression](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
 - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
 - [Clustering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
-- [Multiclass Classification and Categorical Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA)
+<!-- - [Multiclass Classification and Categorical Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA) -->
 
 ### Deep Learning
 - [PyTorch: Tensors, Autodiff, Cuda](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/pytorch.ipynb)
@@ -43,12 +43,12 @@ Regarding theory, I assume no background other than being able to read algebraic
 
 ### Deep Dives
 - [ML Deep Dive: Probability and Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb)
-- [ML Deep Dive: Nearest Neighbors](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/nearest_neighbors.ipynb) (TBA)
+<!-- - [ML Deep Dive: Nearest Neighbors](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/nearest_neighbors.ipynb) (TBA) -->
 
 ### Other
 - [Generating Random Numbers](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb)
-- [Labeling Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA)
-- [Active Learning](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/active_learning.ipynb) (TBA)
+<!-- - [Labeling Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA) -->
+<!-- - [Active Learning](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/active_learning.ipynb) (TBA) -->
 
 Tutorials are added periodically. Check back.
 
