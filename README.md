@@ -25,6 +25,7 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Neural Networks (Part 1): Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets_1.ipynb)
 - [Neural Networks (Part 2): Going Deeper](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets_2.ipynb)
 - [Neural Networks (Part 3): Optimizers](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets_3.ipynb)
+- [Convolutional Neural Networks (Part 1): Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/cnns_1.ipynb)
 
 ### Anomaly Detection
 - [Supervised Anomaly Detection and Unbalanced Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
