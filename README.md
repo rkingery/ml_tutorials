@@ -8,7 +8,7 @@ These tutorials originated from a series of talks I gave in 2018 for the IT divi
 
 ## Knowledge Assumed
 
-Regarding theory, I assume no background other than being able to read algebraic equations and some basic linear algebra (e.g. matrix multiplication, vectors). Knowledge of probability theory shouldn't be essential for going through most of the tutorials, but may be helpful in some areas. Similarly, if calculus shows up somewhere, you can probably ignore it and be fine. On the practical side of things, I assume that readers are familiar with python 3 and basic programming concepts in general.
+Regarding theory, I assume no background other than being able to read algebraic equations and some basic linear algebra (e.g. matrix multiplication, vectors). Knowledge of probability theory shouldn't be essential for going through most of the tutorials, but may be helpful in some areas. Similarly, if calculus shows up somewhere, you can probably ignore it and be fine. On the practical side of things, I assume that readers are familiar with python and basic programming concepts in general.
 
 ## Contents
 
@@ -18,6 +18,9 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Regression](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
 - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
 - [Clustering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
+- [ Unbalanced Data and Supervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
+- [Data Wrangling Part 1: EDA](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/eda.ipynb)
+- [Data Wrangling Part 2: Cleaning](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb) (WIP)
 <!-- - [Multiclass Classification and Categorical Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA) -->
 
 ### Deep Learning
@@ -27,27 +30,18 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Neural Networks (Part 3): Optimizers](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/neural_nets_3.ipynb)
 - [Convolutional Neural Networks (Part 1): Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/cnns_1.ipynb)
 
-### Anomaly Detection
-- [Supervised Anomaly Detection and Unbalanced Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
-- [Unsupervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
-
 ### Natural Language Processing
 - [Text Classification](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_with_text.ipynb)
 
-### Time Series
-- [Time Series Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb)
-- [Machine Learning with Time Series](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb)
-
-### Working with Data
-- [Data Wrangling Part 1: EDA](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/eda.ipynb)
-- [Data Wrangling Part 2: Cleaning](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb) (WIP)
-
-### Deep Dives
-- [ML Deep Dive: Probability and Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb)
-<!-- - [ML Deep Dive: Nearest Neighbors](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/nearest_neighbors.ipynb) (TBA) -->
+### Computer Vision
 
 ### Other
+- [Unsupervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
+- [Time Series Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb)
+- [Machine Learning with Time Series](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb)
+- [ML Deep Dive: Probability and Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb)
 - [Generating Random Numbers](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb)
+<!-- - [ML Deep Dive: Nearest Neighbors](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/nearest_neighbors.ipynb) (TBA) -->
 <!-- - [Labeling Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA) -->
 <!-- - [Active Learning](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/active_learning.ipynb) (TBA) -->
 
@@ -55,7 +49,7 @@ Tutorials are added periodically. Check back.
 
 ## Viewing the Notebooks
 
-If you want to view the notebooks without downloading them, you can use the [Jupyter nbviewer](https://nbviewer.jupyter.org/). Just paste the URL to the notebook there and it will render correctly. 
+If you want to view the notebooks without downloading them, you can just click the links here in the README, or use the [Jupyter nbviewer](https://nbviewer.jupyter.org/) website, where you can just paste the URL to the notebook and it should render correctly. 
 
 ## Running the Notebooks
 
