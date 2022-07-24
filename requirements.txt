@@ -2,6 +2,7 @@ numpy
 scipy
 pandas
 matplotlib
+seaborn
 tqdm
 scikit-learn
 imbalanced-learn
