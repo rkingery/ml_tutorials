@@ -19,8 +19,9 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
 - [Clustering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
 - [ Unbalanced Data and Supervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
-- [Data Wrangling Part 1: EDA](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/eda.ipynb)
-- [Data Wrangling Part 2: Cleaning](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb) (WIP)
+- [End-to-End ML (Part 1): Exploratory Data Analysis](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/eda.ipynb)
+- [End-to-End ML (Part 2): Data Cleaning and Feature Engineering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb) (WIP)
+<!-- - - [End-to-End ML (Part 2): Model Selection and Deployment](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/deployment.ipynb) (TBA) -->
 <!-- - [Multiclass Classification and Categorical Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA) -->
 
 ### Deep Learning
