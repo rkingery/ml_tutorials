@@ -11,7 +11,7 @@ spacy
 # en-core-web-sm
 nltk
 wordcloud
-notebook
+jupyter-notebook
 tsfresh
 MulticoreTSNE
 kaggle
