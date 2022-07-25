@@ -20,8 +20,8 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Clustering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
 - [ Unbalanced Data and Supervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
 - [End-to-End ML (Part 1): Exploratory Data Analysis](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/eda.ipynb)
-- [End-to-End ML (Part 2): Data Cleaning and Feature Engineering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb) (WIP)
-<!-- - - [End-to-End ML (Part 2): Model Selection and Deployment](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/deployment.ipynb) (TBA) -->
+- [End-to-End ML (Part 2): Data Cleaning and Feature Engineering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb)
+- [End-to-End ML (Part 3): Model Selection and Deployment](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/deployment.ipynb) (WIP)
 <!-- - [Multiclass Classification and Categorical Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/multiclass.ipynb) (TBA) -->
 
 ### Deep Learning
