@@ -13,7 +13,8 @@ Regarding theory, I assume no background other than being able to read algebraic
 ## Contents
 
 ### Core Knowledge
-- [Arrays, Dataframes, Plotting](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/arrays.ipynb)
+- [Basics (Part 1): Python, Jupyter, and Math](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/basics.ipynb) (WIP)
+- [Basics (Part 2): Arrays, Dataframes, and Plotting](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/arrays.ipynb)
 - [Binary Classification](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
 - [Regression](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
 - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
