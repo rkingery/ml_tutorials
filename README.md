@@ -15,11 +15,11 @@ Regarding theory, I assume no background other than being able to read algebraic
 ### Core Knowledge
 - [Basics (Part 1): Python, Jupyter, and Math](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/basics.ipynb) (WIP)
 - [Basics (Part 2): Arrays, Dataframes, and Plotting](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/arrays.ipynb)
-- [Binary Classification](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb) (OLD)
-- [Regression](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb) (OLD)
-- [Dimensionality Reduction](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb) (OLD)
-- [Clustering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb) (OLD)
-- [ Unbalanced Data and Supervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb) (OLD)
+- [Binary Classification](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/classification.ipynb)
+- [Regression](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/regression.ipynb)
+- [Dimensionality Reduction](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/dimension_reduction.ipynb)
+- [Clustering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/clustering.ipynb)
+- [ Unbalanced Data and Supervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/supervised_anomalies.ipynb)
 - [End-to-End ML (Part 1): Exploratory Data Analysis](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/eda.ipynb)
 - [End-to-End ML (Part 2): Data Cleaning and Feature Engineering](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/data_cleaning.ipynb)
 - [End-to-End ML (Part 3): Model Selection and Deployment](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/deployment.ipynb) (WIP)
@@ -36,15 +36,15 @@ Regarding theory, I assume no background other than being able to read algebraic
 - [Transformer Networks](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/transformers.ipynb) (WIP)
 
 ### Natural Language Processing
-- [Text Classification](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_with_text.ipynb) (OLD)
+- [Text Classification](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_with_text.ipynb)
 
 ### Computer Vision
 
 ### Other
-- [Unsupervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb) (OLD)
-- [Time Series Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb) (OLD)
-- [Machine Learning with Time Series](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb) (OLD)
-- [ML Deep Dive: Probability and Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb) (OLD)
+- [Unsupervised Anomaly Detection](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/unsupervised_anomalies.ipynb)
+- [Time Series Basics](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/time_series_basics.ipynb)
+- [Machine Learning with Time Series](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/ml_time_series.ipynb)
+- [ML Deep Dive: Probability and Naive Bayes](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/naive_bayes.ipynb)
 - [Generating Random Numbers](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/random.ipynb)
 <!-- - [ML Deep Dive: Nearest Neighbors](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/nearest_neighbors.ipynb) (TBA) -->
 <!-- - [Labeling Data](https://nbviewer.jupyter.org/github/rkingery/ml_tutorials/blob/master/notebooks/labeling_data.ipynb) (TBA) -->
